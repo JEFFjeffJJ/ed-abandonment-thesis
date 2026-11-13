@@ -1,4 +1,4 @@
-"""Descriptive return timing and publication tables for the separate v3 thesis."""
+"""Descriptive return timing and publication tables."""
 from pathlib import Path
 import hashlib
 import json
